@@ -4,27 +4,27 @@ The dashboard enables time-based filtering and multi-dimensional analysis of ER 
 
 KPI Cards :
 
-Total Patients — Snapshot of total ER visits for the selected period 
-Average Wait Time — Mean patient wait time in minutes 
-Patient Satisfaction Score — Average satisfaction rating out of 5
+1. Total Patients — Snapshot of total ER visits for the selected period 
+2. Average Wait Time — Mean patient wait time in minutes 
+3. Patient Satisfaction Score — Average satisfaction rating out of 5
 
 Visual Components :
 
-Gender Wise Analysis : Donut chart showing male/female patient distribution
-Patient Attend Status : Pie chart of on-time vs. delayed patient attendance 
-Patients by Age Group : Bar chart segmenting visits across age bands 
-Admission Status : Admitted vs. not-admitted counts with percentage indicators
-Department Referral Chart : Horizontal bar chart of referrals by department
+1. Gender Wise Analysis : Donut chart showing male/female patient distribution
+2. Patient Attend Status : Pie chart of on-time vs. delayed patient attendance 
+3. Patients by Age Group : Bar chart segmenting visits across age bands 
+4. Admission Status : Admitted vs. not-admitted counts with percentage indicators
+5. Department Referral Chart : Horizontal bar chart of referrals by department
 
 Slicers / Filters :
 
-Month Slicer — Filter data by individual months (Jan–Dec)
-Year Slicer — Switch between years (2023, 2024, 2025) for trend comparison
+1. Month Slicer — Filter data by individual months (Jan–Dec)
+2. Year Slicer — Switch between years (2023, 2024, 2025) for trend comparison
 
 
 Key Insights :
 
-Gender Distribution is nearly balanced — 51% Female, 49% Male — suggesting no significant gender-based triage skew.
-38% of patients experienced delays, pointing to potential operational gaps in triage or staffing during peak hours.
-Middle-aged patients (30–59) represent the highest visit frequency, which can inform staffing and resource planning.
-52% of patients were not admitted, indicating a high proportion of non-critical or walk-in cases.
+1. Gender Distribution is nearly balanced — 51% Female, 49% Male — suggesting no significant gender-based triage skew.
+2. 38% of patients experienced delays, pointing to potential operational gaps in triage or staffing during peak hours.
+3. Middle-aged patients (30–59) represent the highest visit frequency, which can inform staffing and resource planning.
+4. 52% of patients were not admitted, indicating a high proportion of non-critical or walk-in cases.
