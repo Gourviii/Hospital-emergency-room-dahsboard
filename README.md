@@ -4,9 +4,9 @@ The dashboard enables time-based filtering and multi-dimensional analysis of ER 
 
 KPI Cards :
 
-1. Total Patients — Snapshot of total ER visits for the selected period 
-2. Average Wait Time — Mean patient wait time in minutes 
-3. Patient Satisfaction Score — Average satisfaction rating out of 5
+1. Total Patients : Snapshot of total ER visits for the selected period 
+2. Average Wait Time : Mean patient wait time in minutes 
+3. Patient Satisfaction Score :  Average satisfaction rating out of 5
 
 Visual Components :
 
@@ -18,13 +18,13 @@ Visual Components :
 
 Slicers / Filters :
 
-1. Month Slicer — Filter data by individual months (Jan–Dec)
-2. Year Slicer — Switch between years (2023, 2024, 2025) for trend comparison
+1. Month Slicer : Filter data by individual months (Jan–Dec)
+2. Year Slicer : Switch between years (2023, 2024, 2025) for trend comparison
 
 
 Key Insights :
 
-1. Gender Distribution is nearly balanced — 51% Female, 49% Male — suggesting no significant gender-based triage skew.
+1. Gender Distribution is nearly balanced — 51% Female, 49% Male (suggesting no significant gender-based difference).
 2. 38% of patients experienced delays, pointing to potential operational gaps in triage or staffing during peak hours.
 3. Middle-aged patients (30–59) represent the highest visit frequency, which can inform staffing and resource planning.
 4. 52% of patients were not admitted, indicating a high proportion of non-critical or walk-in cases.
