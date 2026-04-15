@@ -1,4 +1,4 @@
-An interactive Hospital Emergency Room Analytics Dashboard built to provide real-time operational insights for hospital administrators and clinical managers. 
+ This interactive  Dashboard built to provide real-time operational insights for hospital administrators and clinical managers. 
 
 The dashboard enables time-based filtering and multi-dimensional analysis of ER performance metrics — helping identify bottlenecks, optimize resource allocation, and improve patient outcomes.
 
@@ -25,6 +25,11 @@ Slicers / Filters :
 Key Insights :
 
 1. Gender Distribution is nearly balanced — 51% Female, 49% Male (suggesting no significant gender-based difference).
+
 2. 38% of patients experienced delays, pointing to potential operational gaps in triage or staffing during peak hours.
+
 3. Middle-aged patients (30–59) represent the highest visit frequency, which can inform staffing and resource planning.
+
 4. 52% of patients were not admitted, indicating a high proportion of non-critical or walk-in cases.
+
+Dashboard snapshot
