@@ -32,5 +32,5 @@ Key Insights :
 
 4. 52% of patients were not admitted, indicating a high proportion of non-critical or walk-in cases.
 
-https://github.com/Gourviii/Hospital-emergency-room-dahsboard/blob/e9a84cc5c3a80e845f554585a0679ea412f9aefd/Snapshot
+![image alt](https://github.com/Gourviii/Hospital-emergency-room-dahsboard/blob/e9a84cc5c3a80e845f554585a0679ea412f9aefd/Snapshot)
 
