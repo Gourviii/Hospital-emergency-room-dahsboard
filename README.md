@@ -1,6 +1,6 @@
- This interactive  Dashboard built to provide real-time operational insights for hospital administrators and clinical managers. 
+This interactive  Dashboard built to provide real-time operational insights for hospital administrators and clinical managers. 
 
-The dashboard enables time-based filtering and multi-dimensional analysis of ER performance metrics — helping identify bottlenecks, optimize resource allocation, and improve patient outcomes.
+The dashboard enables time-based filtering and multi-dimensional analysis of ER performance metrics - helping identify bottlenecks, optimize resource allocation, and improve patient outcomes.
 
 KPI Cards :
 
@@ -10,7 +10,7 @@ KPI Cards :
 
 Visual Components :
 
-1. Gender Wise Analysis : Donut chart showing male/female patient distribution
+1. Gender Wise Analysis : Donut chart showing male / female patient distribution
 2. Patient Attend Status : Pie chart of on-time vs. delayed patient attendance 
 3. Patients by Age Group : Bar chart segmenting visits across age bands 
 4. Admission Status : Admitted vs. not-admitted counts with percentage indicators
@@ -24,7 +24,7 @@ Slicers / Filters :
 
 Key Insights :
 
-1. Gender Distribution is nearly balanced — 51% Female, 49% Male (suggesting no significant gender-based difference).
+1. Gender Distribution is nearly balanced - 51% Female, 49% Male (suggesting no significant gender-based difference).
 
 2. 38% of patients experienced delays, pointing to potential operational gaps in triage or staffing during peak hours.
 
